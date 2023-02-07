@@ -10,7 +10,32 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
-#### - 💬 My work
+#### 💬 My work
+
+- Random Quote App
+    
+    - [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)
+    - [With React](https://all-khwarizmi.github.io/random-react/)
+
+
+- Markdown Viewer
+
+    - [With React](https://main--incomparable-froyo-cd9602.netlify.app)
+
+- Todo App
+
+    - [With Create T3 App](https://todo-app-swart-kappa.vercel.app)
+
+
+- QuizoO
+
+    - [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/)
+
+
+- Gîtes Mon Trésor
+
+    - [@Work In Progress](https://gite-gamma.vercel.app)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=All-Khwarizmi&show_icons=true)
