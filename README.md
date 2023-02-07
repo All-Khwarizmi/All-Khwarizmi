@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working [Memo](https://github.com/All-Khwarizmi/Memo)
-- 🌱 I’m currently learning [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
+- 🔭 I’m currently working on [Memo](https://github.com/All-Khwarizmi/Memo)
+- 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
+- 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
 #### 💬 My work
 
