@@ -4,7 +4,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working [Memo](https://github.com/All-Khwarizmi/Memo)
 - 🌱 I’m currently learning [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
@@ -37,7 +36,5 @@ Here are some ideas to get you started:
     - [@Work In Progress](https://gite-gamma.vercel.app)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=All-Khwarizmi&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=All-Khwarizmi)](https://git.io/streak-stats)
