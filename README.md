@@ -30,10 +30,14 @@
 
     - [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/)
 
+- Dico
+
+    - [With Next.js Prisma Tailwind Typescript ]([https://dapper-belekoy-aa000e.netlify.app/fiches/](https://dico-ochre.vercel.app))
+
 
 - Gîtes Mon Trésor
 
-    - [@Work In Progress](https://gite-gamma.vercel.app)
+    - [@Work In Progress](https://gites-gamma.vercel.app)
 
 
 
