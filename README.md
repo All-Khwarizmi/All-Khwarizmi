@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Memo](https://github.com/All-Khwarizmi/Memo)
+- 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
 - 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
@@ -44,12 +44,14 @@ Colons can be used to align columns.
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
 | Dico 📔    | [Docs](https://gites-gamma.vercel.app)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| QuizoO 🧪     | [Docs](https://gites-gamma.vercel.app)     |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| QuizoO 🧪     | [Server docs](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API)  
+[Client docs](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-gamma.vercel.app)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
+| Memo 📝    | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
 | Todo App ✔️    | [Docs](https://gites-gamma.vercel.app)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
 | Markdown Viewer ✍️    | [Docs](https://gites-gamma.vercel.app)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
-| Random Quote App 🎖️  | [Docs](https://gites-gamma.vercel.app)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
-| Random Quote App 🎖️    | [Docs](https://gites-gamma.vercel.app)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
+| Random Quote App 🎖️  | [Docs](https://github.com/All-Khwarizmi/random-react)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
+| Random Quote App 🎖️    | [Docs](https://github.com/All-Khwarizmi/RandomQuote2)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
 
 
 There must be at least 3 dashes separating each header cell.
