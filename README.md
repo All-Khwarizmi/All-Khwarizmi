@@ -34,14 +34,14 @@
 </div>
 
 
-
+<br />
 
  - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
 - 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
 
-
+<br />
 
 
 #### 💬 My work
@@ -62,6 +62,6 @@
 
 
 
-
+<br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=All-Khwarizmi)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All-Khwarizmi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
