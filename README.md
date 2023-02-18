@@ -14,6 +14,8 @@
   </a>
 </div>
 
+<br />
+#
 <div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
+# About Me
 <br />
 
  - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
