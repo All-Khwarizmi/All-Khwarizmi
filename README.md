@@ -42,7 +42,7 @@
 Colons can be used to align columns.
 
 | Name        | Repo           | Website  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | Dico 📔    | [Docs](https://gites-gamma.vercel.app)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
 | QuizoO 🧪     | [Docs](https://gites-gamma.vercel.app)     |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-gamma.vercel.app)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
