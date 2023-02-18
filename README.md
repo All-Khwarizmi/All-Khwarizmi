@@ -43,9 +43,14 @@ Colons can be used to align columns.
 
 | Name        | Repo           | Website  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Dico 📔    | [Docs](https://gites-gamma.vercel.app)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
+| QuizoO 🧪     | [Docs](https://gites-gamma.vercel.app)     |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| Gîtes Mon Trésor 🏖️| [Docs](https://gites-gamma.vercel.app)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
+| Todo App ✔️    | [Docs](https://gites-gamma.vercel.app)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
+| Markdown Viewer ✍️    | [Docs](https://gites-gamma.vercel.app)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
+| Random Quote App 🎖️  | [Docs](https://gites-gamma.vercel.app)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
+| Random Quote App 🎖️    | [Docs](https://gites-gamma.vercel.app)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
+
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
