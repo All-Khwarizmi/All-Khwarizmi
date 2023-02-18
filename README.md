@@ -41,7 +41,7 @@
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
+| Name        | Repo           | Website  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
