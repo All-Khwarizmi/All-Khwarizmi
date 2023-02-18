@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-# About Me
+# About Me 🤙
 <br />
 
  - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
@@ -53,7 +53,7 @@
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| QuizoO 🧪     | [Server docs](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client docs](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://github.com/All-Khwarizmi/Gite)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
 | Memo 📝    | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
 | Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
