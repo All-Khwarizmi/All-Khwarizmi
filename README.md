@@ -44,8 +44,7 @@ Colons can be used to align columns.
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
 | Dico 📔    | [Docs](https://gites-gamma.vercel.app)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| QuizoO 🧪     | [Server docs](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API)  
-[Client docs](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| QuizoO 🧪     | [Server docs](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API)  [Client docs](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-gamma.vercel.app)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
 | Memo 📝    | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
 | Todo App ✔️    | [Docs](https://gites-gamma.vercel.app)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
