@@ -14,18 +14,21 @@
   </a>
 </div>
 
-### Hi there 👋
 
 
 
-
-- 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
+<div id="intro" align="center">
+ - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
 - 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
+</div>
 
+
+
+
+<div id="work" align="center">
 #### 💬 My work
-
-
+</div>
 
 
 | Name        | Repo           | Website  |
