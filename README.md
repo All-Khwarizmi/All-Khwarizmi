@@ -32,7 +32,7 @@
 
 - Dico
 
-    - [With Next.js Prisma Tailwind Typescript ]([https://dapper-belekoy-aa000e.netlify.app/fiches/](https://dico-ochre.vercel.app))
+    - [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app)
 
 
 - Gîtes Mon Trésor
