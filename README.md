@@ -11,31 +11,31 @@
 
 #### 💬 My work
 
-- Random Quote App
+- Random Quote App 🎖️
     
     - [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)
     - [With React](https://all-khwarizmi.github.io/random-react/)
 
 
-- Markdown Viewer
+- Markdown Viewer ✍️
 
     - [With React](https://main--incomparable-froyo-cd9602.netlify.app)
 
-- Todo App
+- Todo App ✔️
 
     - [With Create T3 App](https://todo-app-swart-kappa.vercel.app)
 
 
-- QuizoO
+- QuizoO 🧪
 
     - [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/)
 
-- Dico
+- Dico 📔
 
     - [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app)
 
 
-- Gîtes Mon Trésor
+- Gîtes Mon Trésor 🏖️
 
     - [@Work In Progress](https://gites-gamma.vercel.app)
 
