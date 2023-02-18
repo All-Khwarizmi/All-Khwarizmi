@@ -11,56 +11,21 @@
 
 #### 💬 My work
 
-- Random Quote App 🎖️
-    
-    - [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)
-    - [With React](https://all-khwarizmi.github.io/random-react/)
 
 
-- Markdown Viewer ✍️
-
-    - [With React](https://main--incomparable-froyo-cd9602.netlify.app)
-
-- Todo App ✔️
-
-    - [With Create T3 App](https://todo-app-swart-kappa.vercel.app)
-
-
-- QuizoO 🧪
-
-    - [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/)
-
-- Dico 📔
-
-    - [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app)
-
-
-- Gîtes Mon Trésor 🏖️
-
-    - [@Work In Progress](https://gites-gamma.vercel.app)
-
-Colons can be used to align columns.
 
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
-| Dico 📔    | [Docs](https://gites-gamma.vercel.app)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| QuizoO 🧪     | [Server docs](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API)  [Client docs](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
-| Gîtes Mon Trésor 🏖️| [Docs](https://gites-gamma.vercel.app)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
+| Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
+| QuizoO 🧪     | [Server docs](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client docs](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| Gîtes Mon Trésor 🏖️| [Docs](https://github.com/All-Khwarizmi/Gite)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
 | Memo 📝    | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
-| Todo App ✔️    | [Docs](https://gites-gamma.vercel.app)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
-| Markdown Viewer ✍️    | [Docs](https://gites-gamma.vercel.app)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
+| Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
+| Markdown Viewer ✍️    | [Docs](https://github.com/All-Khwarizmi/Markdown-Viewer)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
 | Random Quote App 🎖️  | [Docs](https://github.com/All-Khwarizmi/random-react)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
 | Random Quote App 🎖️    | [Docs](https://github.com/All-Khwarizmi/RandomQuote2)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
 
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 
