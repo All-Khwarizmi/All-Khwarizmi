@@ -14,17 +14,7 @@
   </a>
 </div>
 
-
-
-
-
-
- - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
-- 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
-- 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
-
-
-<div>
+<div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -42,12 +32,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg
+
+
+
+
+ - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo)
+- 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
+- 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
+
+
+
+
 
 #### 💬 My work
 
@@ -69,3 +64,4 @@ https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-orig
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=All-Khwarizmi)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All-Khwarizmi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
