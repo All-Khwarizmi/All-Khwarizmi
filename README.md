@@ -56,6 +56,7 @@
 | QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://github.com/All-Khwarizmi/Gite)    |   [@Work In Progress](https://gites-gamma.vercel.app)|
 | Memo 📝    | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
+| FCC Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-FCC)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/portfolio-FCC/)|
 | Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
 | Markdown Viewer ✍️    | [Docs](https://github.com/All-Khwarizmi/Markdown-Viewer)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
 | Random Quote App 🎖️  | [Docs](https://github.com/All-Khwarizmi/random-react)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
