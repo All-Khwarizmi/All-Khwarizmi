@@ -54,7 +54,7 @@
 | ------------- |-------------| -----|
 | Jason's Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-gamma.vercel.app)|
 | Memo 📝    | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
 | FCC Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-FCC)     |   [HTML CSS](https://all-khwarizmi.github.io/portfolio-FCC/)|
