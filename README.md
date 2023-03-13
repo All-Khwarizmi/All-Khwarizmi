@@ -38,7 +38,7 @@
 # About Me 🤙
 <br />
 
- - 🔭 I’m currently working on [Memo 📝](https://github.com/All-Khwarizmi/Memo2)
+ - 🔭 I’m currently working on [QuizoO II 📝](https://quizoo-espanol.vercel.app/)
 - 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
@@ -52,6 +52,7 @@
 
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
+| QuizoO II 📝   | [Docs](https://github.com/All-Khwarizmi/Quiz-Sanity)     |   [Next.js & Typescript](https://quizoo-espanol.vercel.app/)|
 | Jason's Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
 | QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
