@@ -57,7 +57,6 @@
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
 | QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-gamma.vercel.app)|
-| Memo  𐄳   | [Docs](https://github.com/All-Khwarizmi/Memo)     |  [@Work In Progress](https://todo-app-swart-kappa.vercel.app)|
 | FCC Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-FCC)     |   [HTML CSS](https://all-khwarizmi.github.io/portfolio-FCC/)|
 | Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
 | Markdown Viewer ✍️    | [Docs](https://github.com/All-Khwarizmi/Markdown-Viewer)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
