@@ -54,8 +54,8 @@
 | ------------- |-------------| -----|
 | QuizoO II 📝   | [Docs](https://github.com/All-Khwarizmi/Quiz-Sanity)     |   [Next.js & Typescript](https://quizoo-espanol.vercel.app/)|
 | Jason's Portfolio  👀  | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
+| Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-mon-tresor-guadeloupe.com/)|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-gamma.vercel.app)|
 | FCC Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-FCC)     |   [HTML CSS](https://all-khwarizmi.github.io/portfolio-FCC/)|
 | Markdown Viewer ✍️    | [Docs](https://github.com/All-Khwarizmi/Markdown-Viewer)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
 | QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
