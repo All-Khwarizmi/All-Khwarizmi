@@ -55,11 +55,11 @@
 | QuizoO II 📝   | [Docs](https://github.com/All-Khwarizmi/Quiz-Sanity)     |   [Next.js & Typescript](https://quizoo-espanol.vercel.app/)|
 | Jason's Portfolio  👀  | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
-| QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-gamma.vercel.app)|
 | FCC Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-FCC)     |   [HTML CSS](https://all-khwarizmi.github.io/portfolio-FCC/)|
-| Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
 | Markdown Viewer ✍️    | [Docs](https://github.com/All-Khwarizmi/Markdown-Viewer)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
+| QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
+| Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
 | Random Quote App 🎖️  | [Docs](https://github.com/All-Khwarizmi/random-react)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
 | Random Quote App 🎖️    | [Docs](https://github.com/All-Khwarizmi/RandomQuote2)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
 
