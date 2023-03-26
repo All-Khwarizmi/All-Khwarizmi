@@ -38,7 +38,7 @@
 # About Me 🤙
 <br />
 
- - 🔭 I’m currently working on [QuizoO II 📝](https://quizoo-espanol.vercel.app/), [Codice 🥶](https://codice-it.vercel.app/) and [Recal (API/GUI) 📲](https://recall-api.vercel.app/)
+ - 🔭 I’m currently working on [QuizoO II 📝](https://quizoo-espanol.vercel.app/), [Codice 🥶](https://codice-it.vercel.app/) and [Recal 📲](https://recall-api.vercel.app/)
 - 🌱 I’m currently learning the [T3 stack technos]([https://github.com/All-Khwarizmi/Memo](https://create.t3.gg))
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
