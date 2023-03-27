@@ -39,7 +39,7 @@
 <br />
 
  - 🔭 I’m currently working on [QuizoO II 📝](https://quizoo-espanol.vercel.app/), [Codice 🥶](https://codice-it.vercel.app/) and [Recal 📲](https://recall-api.vercel.app/)
-- 🌱 I’m currently learning to serverless land
+- 🌱 I’m currently on my way to serverless land
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
 
