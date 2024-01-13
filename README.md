@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jzCbjEDsUaX4D2c0O5/giphy.gif" height="200" width="300"/>
+  <img src="https://media.giphy.com/media/aPLpgeNGvKpyrSaPmX/giphy.gif" height="200" width="300"/>
 </div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/jason-suarez/">
