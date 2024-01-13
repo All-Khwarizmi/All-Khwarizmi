@@ -19,10 +19,9 @@
 
 # About Me 🤙
 <br />
-https://mon-prof-ia.vercel.app/
 
  - 🔭 I’m currently working on [Mon Prof IA 🧠](https://mon-prof-ia.vercel.app/)
-- 🌱 I’m currently on my way to the Deeplearning side of things
+- 🌱 On my way to the Deep learning side of things
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
 
@@ -50,8 +49,6 @@ https://mon-prof-ia.vercel.app/
 | Todo App ✔️    | [Docs](https://github.com/All-Khwarizmi/Todo-App-T3-STACK)     |  [With Create T3 App](https://todo-app-swart-kappa.vercel.app)|
 | Random Quote App 🎖️  | [Docs](https://github.com/All-Khwarizmi/random-react)     |   [With React](https://all-khwarizmi.github.io/random-react/)|
 | Random Quote App 🎖️    | [Docs](https://github.com/All-Khwarizmi/RandomQuote2)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
-
-
 
 
 <br />
