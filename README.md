@@ -37,27 +37,31 @@
 
 # About Me 🤙
 <br />
+https://mon-prof-ia.vercel.app/
 
  - 🔭 I’m currently working on [QuizoO II 📝](https://quizoo-espanol.vercel.app/)
-- 🌱 I’m currently on my way to serverless land
+- 🌱 I’m currently on my way to the Deeplearning side of things
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
 
 <br />
 
+# Machine Learning Projects 🤖
+- **Chut**: A unique noise meter app designed for classroom management. [GitHub](https://github.com/All-Khwarizmi/chut-next), [Web Page](https://chut.me/).
+- **Glossaire IA**: An educational tool focusing on AI terminology. [GitHub](https://github.com/All-Khwarizmi/glossaire_ia).
+- **GOAT Detector**: A project analyzing football players' performances. [GitHub](https://github.com/All-Khwarizmi/goat_detector), [Web Page](https://huggingface.co/spaces/swarecito/football_goat_detector).
 
-# 💬 My work
-
+# 💬 My other projects
 
 
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
-| Recal (API/GUI) 📲  | [Docs](https://github.com/All-Khwarizmi/-Recall-API-)     |   [Next.js & Typescript & Redis & Auth.js](https://recall-api.vercel.app/)|
-| Codice 🥶  | [Docs](https://github.com/All-Khwarizmi/codice)     |   [Next.js & Typescript & Prisma & Auth.js](https://codice-it.vercel.app/)|
-| QuizoO II 📝   | [Docs](https://github.com/All-Khwarizmi/Quiz-Sanity)     |   [Next.js & Typescript](https://quizoo-espanol.vercel.app/)|
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-mon-tresor-guadeloupe.com/)|
 | Jason's Portfolio  👀  | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
+| Recal (API/GUI) 📲  | [Docs](https://github.com/All-Khwarizmi/-Recall-API-)     |   [Next.js & Typescript & Redis & Auth.js](https://recall-api.vercel.app/)|
+| Codice 🥶  | [Docs](https://github.com/All-Khwarizmi/codice)     |   [Next.js & Typescript & Prisma & Auth.js](https://codice-it.vercel.app/)|
+| QuizoO II 📝   | [Docs](https://github.com/All-Khwarizmi/Quiz-Sanity)     |   [Next.js & Typescript](https://quizoo-espanol.vercel.app/)|
 | FCC Portfolio 🔱    | [Docs](https://github.com/All-Khwarizmi/portfolio-FCC)     |   [HTML CSS](https://all-khwarizmi.github.io/portfolio-FCC/)|
 | Markdown Viewer ✍️    | [Docs](https://github.com/All-Khwarizmi/Markdown-Viewer)     |  [With React](https://main--incomparable-froyo-cd9602.netlify.app)|
 | QuizoO 🧪     | [Server](https://github.com/All-Khwarizmi/Express-GraphQL-Quiz-API) / [Client](https://github.com/All-Khwarizmi/Quizoo-client) |  [With React & Graphql & Apollo](https://dapper-belekoy-aa000e.netlify.app/fiches/) |
