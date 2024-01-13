@@ -39,7 +39,7 @@
 <br />
 https://mon-prof-ia.vercel.app/
 
- - 🔭 I’m currently working on [QuizoO II 📝](https://quizoo-espanol.vercel.app/)
+ - 🔭 I’m currently working on [Mon Prof IA 🧠](https://mon-prof-ia.vercel.app/)
 - 🌱 I’m currently on my way to the Deeplearning side of things
 - 📫 Reach me anytime on [Linkedin](https://www.linkedin.com/in/jason-suarez/)
 
