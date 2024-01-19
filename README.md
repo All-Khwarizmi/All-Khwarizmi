@@ -32,8 +32,11 @@
 - **Glossaire IA**: An educational tool focusing on AI terminology. [GitHub](https://github.com/All-Khwarizmi/glossaire_ia).
 - **GOAT Detector**: A project analyzing football players' performances. [GitHub](https://github.com/All-Khwarizmi/goat_detector), [Web Page](https://huggingface.co/spaces/swarecito/football_goat_detector).
 
-# 💬 My other projects
+# Blog 📚
+Explore the Future of Language Mastery: Where AI, Neuroscience, and Education Converge in the Integral Method!
+> [Education 2.0](https://all-khwarizmi.github.io/blog_quarto/)
 
+# 💬 My other projects
 
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
