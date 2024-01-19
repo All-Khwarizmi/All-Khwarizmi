@@ -37,6 +37,7 @@ Explore the Future of Language Mastery: Where AI, Neuroscience, and Education Co
 > [Education 2.0](https://all-khwarizmi.github.io/blog_quarto/)
 
 # 💬 My other projects
+<br />
 
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
@@ -51,7 +52,3 @@ Explore the Future of Language Mastery: Where AI, Neuroscience, and Education Co
 | Random Quote App 🎖️    | [Docs](https://github.com/All-Khwarizmi/RandomQuote2)     |   [Vanilla JavaScript](https://all-khwarizmi.github.io/RandomQuote2/)|
 
 
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=All-Khwarizmi)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All-Khwarizmi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
