@@ -40,7 +40,7 @@
 | Chut 🤫| [Docs](https://github.com/All-Khwarizmi/chut-next)    |   [Next.js & Typescript](https://chut.me/)|
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-mon-tresor-guadeloupe.com/)|
 | Jason's Portfolio  👀  | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
-| Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
+| Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-uno.vercel.app/) |
 | Recal (API/GUI) 📲  | [Docs](https://github.com/All-Khwarizmi/-Recall-API-)     |   [Next.js & Typescript & Redis & Auth.js](https://recall-api.vercel.app/)|
 | Codice 🥶  | [Docs](https://github.com/All-Khwarizmi/codice)     |   [Next.js & Typescript & Prisma & Auth.js](https://codice-it.vercel.app/)|
 | QuizoO II 📝   | [Docs](https://github.com/All-Khwarizmi/Quiz-Sanity)     |   [Next.js & Typescript](https://quizoo-espanol.vercel.app/)|
