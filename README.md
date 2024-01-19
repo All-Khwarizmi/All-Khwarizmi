@@ -37,6 +37,7 @@
 
 | Name        | Repo           | Website  |
 | ------------- |-------------| -----|
+| Chut 🤫| [Docs](https://github.com/All-Khwarizmi/chut-next)    |   [Next.js & Typescript](https://chut.me/)|
 | Gîtes Mon Trésor 🏖️| [Docs](https://gites-mon-tresor-guadeloupe.com/)    |   [Next.js & Typescript](https://gites-mon-tresor-guadeloupe.com/)|
 | Jason's Portfolio  👀  | [Docs](https://github.com/All-Khwarizmi/portfolio-next)     |   [Next.js & Typescript](https://jason-suarez.com)|
 | Dico 📔    | [Docs](https://github.com/All-Khwarizmi/Dico)  | [With Next.js Prisma Tailwind Typescript ](https://dico-ochre.vercel.app) |
