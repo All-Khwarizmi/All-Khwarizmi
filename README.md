@@ -17,7 +17,7 @@
 <br />
 
 
-# About Me 🤙
+# About 🤙
 <br />
 
  - 🔭 I’m currently working on [Mon Prof IA 🧠](https://mon-prof-ia.vercel.app/)
