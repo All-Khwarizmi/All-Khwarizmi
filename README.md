@@ -31,7 +31,7 @@
 - **[DicoIA](https://dicoia.streamlit.app/)** est un dictionnaire multilingue alliant grands modèles de langage, issus du catalogue d'[OpenRouter](https://openrouter.ai/docs#models), à une interface **intuitive** et **épurée** créée grâce à [Streamlit](https://streamlit.io/). [GitHub](https://github.com/All-Khwarizmi/dico-ia), [Web Page]([https://chut.me/](https://dicoia.streamlit.app/).
 - **[Chut](https://chut.me/)**: A unique noise meter app designed for classroom management. [GitHub](https://github.com/All-Khwarizmi/chut-next).
 - **[Glossaire IA](https://glossaireia.streamlit.app/)**: An educational tool focusing on AI terminology. [GitHub](https://github.com/All-Khwarizmi/glossaire_ia).
-- **GOAT Detector**: A project analyzing football players' performances. [GitHub](https://github.com/All-Khwarizmi/goat_detector), [Web Page](https://huggingface.co/spaces/swarecito/football_goat_detector).
+- **[Goat Detector](https://huggingface.co/spaces/swarecito/football_goat_detector)**: A project analyzing football players' performances. [GitHub](https://github.com/All-Khwarizmi/goat_detector).
 
 # Blog 📚
 Explore the Future of Language Mastery: Where AI, Neuroscience, and Education Converge in the Integral Method!
