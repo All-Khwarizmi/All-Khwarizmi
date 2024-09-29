@@ -9,18 +9,17 @@
 # Projects 🛠️
 Here are a few projects that showcase my work in building interactive, intuitive applications:
 
+- **[LaClasse.app](https://www.laclasse.app/)**: An all-in-one educational platform allowing teachers to easily manage resources, create evaluations, and streamline their educational pipeline.  
 - **[Chut](https://chut.me/)**: A unique noise meter app designed for classroom management. [GitHub](https://github.com/All-Khwarizmi/chut-next).
-- **[DicoIA](https://dicoia.streamlit.app/)**: A multilingual dictionary powered by large language models. [GitHub](https://github.com/All-Khwarizmi/dico-ia).
-- **[Glossaire IA](https://glossaireia.streamlit.app/)**: An educational tool focused on AI terminology. [GitHub](https://github.com/All-Khwarizmi/glossaire_ia).
-- **[Goat Detector](https://huggingface.co/spaces/swarecito/football_goat_detector)**: A project analyzing football players' performances. [GitHub](https://github.com/All-Khwarizmi/goat_detector).
 
 ---
 
-# Machine Learning (In the Background) 🤖
+# Machine Learning Projects 🤖
 While my primary focus is on front-end development, I’m diving deeper into **machine learning** and experimenting with interesting side projects:
 
-- **[DicoIA](https://dicoia.streamlit.app/)**: A tool combining large language models and streamlined UI via [Streamlit](https://streamlit.io/). [GitHub](https://github.com/All-Khwarizmi/dico-ia).
 - **[Glossaire IA](https://glossaireia.streamlit.app/)**: Simplifying AI concepts for curious minds. [GitHub](https://github.com/All-Khwarizmi/glossaire_ia).
+- **[Goat Detector](https://huggingface.co/spaces/swarecito/football_goat_detector)**: A project analyzing football players' performances. [GitHub](https://github.com/All-Khwarizmi/goat_detector).
+- **[DicoIA](https://dicoia.streamlit.app/)**: A multilingual dictionary project powered by AI models, with a clean and intuitive UI for educational use. [GitHub](https://github.com/All-Khwarizmi/dico-ia).
 
 ---
 
