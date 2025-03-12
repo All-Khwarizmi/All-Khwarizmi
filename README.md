@@ -11,16 +11,16 @@ I'm a full-stack developer specializing in **Web3** and **blockchain technologie
 
 ## Featured Projects 🚀
 
-### [EVM Visualizer](https://github.com/All-Khwarizmi/evm-visualizer) ⚙️
+### [EVM Visualizer](https://github.com/All-Khwarizmi/evm-visualization) ⚙️
 An interactive educational tool that visualizes Ethereum Virtual Machine execution processes in real-time, making complex EVM concepts accessible through visual learning.
 - **Tech**: Next.js, TypeScript, React Flow, Tailwind CSS
 - Built through "vibe coding" (AI-assisted development)
 - [Try it live](https://your-domain.com)
 
-### [CryptoNavigator](https://github.com/All-Khwarizmi/crypto-navigator) 🧭
-AI-powered Web3 bot integrating with Mode Network, showcasing smart contract interactions and DeFi protocol interfaces.
-- **Tech**: Solidity, React, ethers.js, Mode Network
-- **Features**: Cross-chain integrations, gas optimization patterns
+### [AgentDex](https://github.com/All-Khwarizmi/agentdex) 🤖
+AI-powered Web3 agent system built for decentralized exchanges and DeFi interactions.
+- **Tech**: React, TypeScript, ethers.js, AI/ML integration
+- **Features**: Automated trading strategies, portfolio management, risk analysis
 
 ### [LaClasse.app](https://www.laclasse.app/) 📚
 Educational platform built with React and TypeScript, focusing on interactive learning experiences.
