@@ -15,7 +15,7 @@ I'm a full-stack developer specializing in **Web3** and **blockchain technologie
 An interactive educational tool that visualizes Ethereum Virtual Machine execution processes in real-time, making complex EVM concepts accessible through visual learning.
 - **Tech**: Next.js, TypeScript, React Flow, Tailwind CSS
 - Built through "vibe coding" (AI-assisted development)
-- [Try it live](https://your-domain.com)
+- [Try it live](evm-visualizer.vercel.app)
 
 ### [AgentDex](https://github.com/All-Khwarizmi/agentdex) 🤖
 AI-powered Web3 agent system built for decentralized exchanges and DeFi interactions.
