@@ -1,29 +1,56 @@
-# About 🌐
-- 💻 Developer specialized in **Web3**, **Blockchain**, and **decentralized applications**
-- ⛓️ Building bridges between traditional web and blockchain technologies
-- 🔧 Creating dApps and smart contracts with focus on user experience
-- 🤖 Exploring AI applications in DeFi and blockchain
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jason-suarez/) | [Website](https://jason-suarez.com)
+# Jason Suarez | Web3 & Full Stack Developer
+
+## About Me 🌐
+
+I'm a full-stack developer specializing in **Web3** and **blockchain technologies**, currently focused on:
+
+- 🔍 Building tools to make blockchain more accessible and understandable
+- ⚡ Developing dApps with clean architecture and exceptional UX
+- 🛡️ Pursuing blockchain security research and gas optimization
+- 🤖 Exploring AI applications in DeFi and Web3 infrastructure
+
+## Featured Projects 🚀
+
+### [EVM Visualizer](https://github.com/All-Khwarizmi/evm-visualizer) ⚙️
+An interactive educational tool that visualizes Ethereum Virtual Machine execution processes in real-time, making complex EVM concepts accessible through visual learning.
+- **Tech**: Next.js, TypeScript, React Flow, Tailwind CSS
+- Built through "vibe coding" (AI-assisted development)
+- [Try it live](https://your-domain.com)
+
+### [CryptoNavigator](https://github.com/All-Khwarizmi/crypto-navigator) 🧭
+AI-powered Web3 bot integrating with Mode Network, showcasing smart contract interactions and DeFi protocol interfaces.
+- **Tech**: Solidity, React, ethers.js, Mode Network
+- **Features**: Cross-chain integrations, gas optimization patterns
+
+### [LaClasse.app](https://www.laclasse.app/) 📚
+Educational platform built with React and TypeScript, focusing on interactive learning experiences.
+- **Tech**: React, TypeScript, Next.js, Tailwind CSS
+- **Features**: Real-time collaboration, interactive content delivery
+
+## Tech Stack 🛠️
+
+**Blockchain & Web3**
+- Solidity | Smart Contracts | ERC20/721 Standards
+- ethers.js | Hardhat | Web3.js
+
+**Development**
+- TypeScript | React | Next.js | Node.js
+- Tailwind CSS | Shadcn UI | React Flow
+
+**AI & ML**
+- TensorFlow | Python | Integration with Web apps
+
+## Open for Opportunities 🔎
+
+- 💼 Open to full-stack, frontend, or backend roles, particularly in Web3 companies
+- 🔧 Contract work related to blockchain development or security analysis
+- 🤝 Collaboration on open-source Web3 educational tools and visualizers
+
+## Connect With Me 📫
+
+- [LinkedIn](https://www.linkedin.com/in/jason-suarez/)
+- [Personal Website](https://jason-suarez.com)
 
 ---
-# Web3 Projects 🛠️
-- **[CryptoNavigator](https://github.com/All-Khwarizmi/crypto-navigator)**: AI-powered Web3 bot integrating blockchain technology with Mode Network, showcasing smart contract interactions and DeFi protocol interfaces.
-- **Web3 Integrations**: Collection of smart contracts (ERC20/721) and frontend implementations for blockchain interaction.
 
----
-# Full Stack Development 🚀
-- **[LaClasse.app](https://www.laclasse.app/)**: Educational platform built with React and TypeScript
-- **[Chut](https://chut.me/)**: Modern web application for classroom management ([GitHub](https://github.com/All-Khwarizmi/chut-next))
-
----
-# AI Projects 🤖
-- **[DicoIA](https://dicoia.streamlit.app/)**: A multilingual dictionary project powered by AI models, with a clean and intuitive UI for educational use. [GitHub](https://github.com/All-Khwarizmi/dico-ia).
-- **[Goat Detector](https://huggingface.co/spaces/swarecito/football_goat_detector)**: Performance analysis for football players ([GitHub](https://github.com/All-Khwarizmi/goat_detector))
-
----
-# Tech Stack 💻
-- **Blockchain**: Solidity, Smart Contracts (ERC20/721)
-- **Web3**: ethers.js, Hardhat
-- **Frontend**: React, Next.js, TypeScript
-- **Backend**: Node.js, API Design
-- **AI**: TensorFlow, Python for data analysis
+*"Making blockchain accessible, one visualization at a time."*
