@@ -1,56 +1,64 @@
-# Jason Suarez | Web3 & Full Stack Developer
+# 👋 Hi, I'm Jason Suarez
 
-## About Me 🌐
+## Web3 Security Researcher & Full Stack Developer
 
-I'm a full-stack developer specializing in **Web3** and **blockchain technologies**, currently focused on:
+<div align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+</div>
 
+- 🛡️ Currently diving deep into **smart contract security analysis** and vulnerability research
 - 🔍 Building tools to make blockchain more accessible and understandable
-- ⚡ Developing dApps with clean architecture and exceptional UX
-- 🛡️ Pursuing blockchain security research and gas optimization
-- 🤖 Exploring AI applications in DeFi and Web3 infrastructure
+- ⚡ Developing secure dApps with clean architecture and exceptional UX
+- 🤖 Exploring AI applications in security analysis and Web3 infrastructure
 
-## Featured Projects 🚀
+## 📌 Featured Projects
 
-### [EVM Visualizer](https://github.com/All-Khwarizmi/evm-visualization) ⚙️
-An interactive educational tool that visualizes Ethereum Virtual Machine execution processes in real-time, making complex EVM concepts accessible through visual learning.
-- **Tech**: Next.js, TypeScript, React Flow, Tailwind CSS
-- Built through "vibe coding" (AI-assisted development)
-- [Try it live](evm-visualizer.vercel.app)
+### [Security Research Portfolio](https://github.com/All-Khwarizmi/security-reviews)
+Smart contract vulnerability assessments and security methodologies
 
-### [AgentDex](https://github.com/All-Khwarizmi/agentdex) 🤖
-AI-powered Web3 agent system built for decentralized exchanges and DeFi interactions.
-- **Tech**: React, TypeScript, ethers.js, AI/ML integration
-- **Features**: Automated trading strategies, portfolio management, risk analysis
+### [EVM Visualizer](https://github.com/All-Khwarizmi/evm-visualization)
+Interactive visualization of Ethereum Virtual Machine execution ([Live Demo](https://evm-visualizer.vercel.app))
 
-### [LaClasse.app](https://www.laclasse.app/) 📚
-Educational platform built with React and TypeScript, focusing on interactive learning experiences.
-- **Tech**: React, TypeScript, Next.js, Tailwind CSS
-- **Features**: Real-time collaboration, interactive content delivery
+### [AgentDex](https://github.com/All-Khwarizmi/agentdex)
+AI-powered trading agent system for decentralized exchanges
 
-## Tech Stack 🛠️
+## 🛠️ My Toolbox
 
-**Blockchain & Web3**
-- Solidity | Smart Contracts | ERC20/721 Standards
-- ethers.js | Hardhat | Web3.js
+**Security & Blockchain**
+```
+Solidity • Foundry • Hardhat • Slither • Smart Contract Auditing
+```
 
 **Development**
-- TypeScript | React | Next.js | Node.js
-- Tailwind CSS | Shadcn UI | React Flow
+```
+TypeScript • React • Next.js • Node.js • Tailwind CSS
+```
 
 **AI & ML**
-- TensorFlow | Python | Integration with Web apps
+```
+TensorFlow • Python • LLM Integrations
+```
 
-## Open for Opportunities 🔎
+## 📫 Let's Connect!
 
-- 💼 Open to full-stack, frontend, or backend roles, particularly in Web3 companies
-- 🔧 Contract work related to blockchain development or security analysis
-- 🤝 Collaboration on open-source Web3 educational tools and visualizers
-
-## Connect With Me 📫
-
-- [LinkedIn](https://www.linkedin.com/in/jason-suarez/)
-- [Personal Website](https://jason-suarez.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jason-suarez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/swarecito">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://jason-suarez.com">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-*"Making blockchain accessible, one visualization at a time."*
+<div align="center">
+  <i>Securing the decentralized future, one smart contract at a time.</i>
+</div>
