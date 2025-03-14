@@ -23,7 +23,7 @@ Smart contract vulnerability assessments and security methodologies
 ### [EVM Visualizer](https://github.com/All-Khwarizmi/evm-visualization)
 Interactive visualization of Ethereum Virtual Machine execution ([Live Demo](https://evm-visualizer.vercel.app))
 
-### [AgentDex](https://github.com/All-Khwarizmi/agentdex)
+### [AgentDex](https://github.com/All-Khwarizmi/agent-dex)
 AI-powered trading agent system for decentralized exchanges
 
 ## 🛠️ My Toolbox
